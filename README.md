@@ -1,7 +1,7 @@
-JavaScript Stylelint Demo
-=========================
+JavaScript Stylelint "stylelint.config.js" Demo
+===============================================
 
-Stylelint是用来检查CSS的代码是否有问题或者满足某种规范。
+在Stylelint中使用配置文件`stylelint.config.js`:
 
 ```
 npm install
